@@ -1,5 +1,5 @@
 {
-    "name": "formfeed-uk/nova-breadcrumbs",
+    "name": "lehadnk/nova-breadcrumbs",
     "description": "A Laravel Nova package to extend the capabilities of the first party Nova Breadcrumbs",
     "homepage": "https://github.com/formfeed-uk/nova-breadcrumbs",
     "license": "MIT",
